@@ -2,12 +2,19 @@
 
 Запускаете на компе
 
+```
+git clone git@github.com:MichaelNotDeveloper/spisat_sop.git
+cd spisat_sop
+pip install pyautogui
+python3 do_soap.py
+```
+
 ```py
 import pyautogui
 import time
 time.sleep(5)
 delay = 0.02
-for _ in range(100):
+for _ in range(1000):
     pyautogui.press('tab')
     time.sleep(delay)
     pyautogui.press('-')
@@ -17,11 +24,6 @@ for _ in range(100):
 ```
 
 У вас пять секунд чтобы кликнуть на галочку не уверен или незнаю хз че там в первом вопросе
-
-```
-pip install pyautogui
-python3 do_soap.py
-```
 
 Куда потратить сэкономленные 30 секунд?
 - Позвонить маме
