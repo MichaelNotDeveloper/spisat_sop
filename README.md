@@ -6,9 +6,9 @@
 и заходим в [анкету сопа](https://lms.hse.ru/yii_index.php?r=rt/hse-rt-student-event-list)
 
 ```
-git clone git@github.com:MichaelNotDeveloper/spisat_sop.git
-cd spisat_sop
-pip install pyautogui
+git clone https://github.com/MichaelNotDeveloper/spisat_sop.git && 
+cd spisat_sop && 
+pip install pyautogui &&
 python3 do_soap.py
 ```
 
