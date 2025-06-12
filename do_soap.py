@@ -2,7 +2,7 @@ import pyautogui
 import time
 time.sleep(5)
 delay = 0.02
-for _ in range(100):
+for _ in range(1000):
     pyautogui.press('tab')
     time.sleep(delay)
     pyautogui.press('-')
