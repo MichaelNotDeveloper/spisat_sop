@@ -1,6 +1,9 @@
 # Списать соп бесплатно
 
-Запускаете на компе, только потом успейте выключить
+
+
+Запускаете на компе, только потом успейте выключить,
+и заходим в [анкету сопа](https://lms.hse.ru/yii_index.php?r=rt/hse-rt-student-event-list)
 
 ```
 git clone git@github.com:MichaelNotDeveloper/spisat_sop.git
